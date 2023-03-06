@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gateway-server
+  cloud:
+    nacos:
+      server-addr: localhost:15001
+      config:
+        file-extension: yaml
+

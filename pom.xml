@@ -25,7 +25,8 @@
         <module>goods-server</module>
         <module>voucher-server</module>
         <module>cart-server</module>
-        <module>xxlJob-server</module>
+        <module>third-server</module>
+        <module>xxljob-server</module>
     </modules>
     <dependencyManagement>
         <dependencies>

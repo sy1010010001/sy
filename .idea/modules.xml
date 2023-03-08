@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/goods-server/goods-server.iml" filepath="$PROJECT_DIR$/goods-server/goods-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/sy-shop.iml" filepath="$PROJECT_DIR$/sy-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-server/third-server.iml" filepath="$PROJECT_DIR$/third-server/third-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/voucher-server/voucher-server.iml" filepath="$PROJECT_DIR$/voucher-server/voucher-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/xxljob-server/xxljob-server.iml" filepath="$PROJECT_DIR$/xxljob-server/xxljob-server.iml" />
     </modules>

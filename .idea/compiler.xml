@@ -10,11 +10,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="voucher-server" />
         <module name="common-server" />
-        <module name="goods-server" />
         <module name="admin-server" />
-        <module name="xxljob-server" />
-        <module name="gateway-server" />
+        <module name="goods-server" />
         <module name="cart-server" />
+        <module name="xxljob-server" />
+        <module name="third-server" />
+        <module name="gateway-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="gateway-server" target="1.8" />
       <module name="goods-server" target="1.8" />
       <module name="sy-shop" target="1.8" />
+      <module name="third-server" target="1.8" />
       <module name="voucher-server" target="1.8" />
       <module name="xxl-job" target="1.8" />
       <module name="xxl-job-admin" target="1.8" />
@@ -42,6 +44,7 @@
       <module name="gateway-server" options="-parameters" />
       <module name="goods-server" options="-parameters" />
       <module name="sy-shop" options="" />
+      <module name="third-server" options="-parameters" />
       <module name="voucher-server" options="-parameters" />
       <module name="xxl-job" options="-parameters" />
       <module name="xxljob-server" options="-parameters" />
